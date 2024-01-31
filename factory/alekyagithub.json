@@ -1,0 +1,9 @@
+{
+	"name": "alekyagithub",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "07a172e4-aaee-4489-a187-560d8f6f3dff",
+		"tenantId": "e77c227d-bd68-4f3f-acbe-fb07bd273b6e"
+	}
+}
